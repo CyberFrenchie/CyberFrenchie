@@ -1,7 +1,7 @@
 # Hey, I'm Sam (CyberFrenchie) 👋
 
 Cybersecurity researcher & final-year BSc Digital Security student based in Scotland.
-Founder of **[Cairn Intelligence](https://cairnintelligence.com)** — a threat intelligence consultancy serving Scottish and UK SMEs.
+Founder of **[Cairn Intelligence](https://cairnintelligence.com)** — a threat intelligence consultancy serving businesses worldwide.
 I break things, figure out why they broke, and write about it.
 
 ---
