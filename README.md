@@ -1,52 +1,83 @@
-# Hey, I'm Sam (CyberFrenchie) 👋
+# Sam Dalgleish — CyberFrenchie
 
-Cybersecurity researcher based in Scotland, working as a **SOC Engineer at Acumen Cyber**.
-BSc (Hons) Digital Security & Forensics, Glasgow Caledonian University.
-I break things, figure out why they broke, and write about it.
+### SOC Engineer | Incident Response | Threat Intelligence | Detection Engineering
 
-*Everything published here is independent research done in my own time — not on
-behalf of my employer, and using no client or employer data.*
+I am a SOC Engineer at **Acumen Cyber**, based in Scotland, with a first-class
+BSc (Hons) in Digital Security and Forensics from Glasgow Caledonian University.
 
----
+My work covers the full security incident lifecycle: alert triage, investigation,
+scoping, response, remediation guidance and closure. I am comfortable taking
+ownership of complex investigations, working directly with colleagues and
+customers, and translating technical evidence into clear, practical outcomes.
 
-### What I Do
+Outside work, I conduct independent vulnerability and threat research, build
+defensive security tooling, and practise responsible disclosure. My published
+research includes **[CVE-2025-9548](https://www.cve.org/CVERecord?id=CVE-2025-9548)**,
+a null-pointer dereference in Lenovo's Power Management Driver.
 
-- 🔬 **Vulnerability Research** — Published CVE researcher ([CVE-2025-9548](https://www.cve.org/CVERecord?id=CVE-2025-9548), Lenovo, CVSS 5.5) at age 20
-- 🕵️ **Threat Intelligence** — OSINT-led investigations, IOC validation, published intel reports
-- 📱 **Mobile/App Analysis** — Dart AOT reverse engineering (Blutter), static analysis, spyware investigation
-- 🐛 **Fuzzing** — Independent vulnerability research with AFL++
-- 🌐 **OSINT** — Infrastructure mapping, operator attribution, open-source reconnaissance
-- 🛡️ **Detection Engineering** — Sigma rules, endpoint telemetry, SIEM
-
----
-
-### Recent Work
-
-📄 **[Threat Intelligence Reports](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/)** — Published research
-
-| Report | Type | Date |
-|--------|------|------|
-| [AiLock Ransomware — England Hockey](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/threat-intelligence/2026/03/15/ailock-ransomware-england-hockey.html) | Ransomware / Double Extortion | Mar 2026 |
-| [Premium VPN Android — Confirmed Spyware](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/threat-intelligence/2026/02/22/premium-vpn-spyware-android.html) | Spyware / Mobile | Feb 2026 |
-| [Remcos RAT C2 Infrastructure](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/threat-intelligence/2025/03/05/45.74.46.39.html) | RAT / C2 | Mar 2025 |
-| [GHOST RAT C2 Infrastructure](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/threat-intelligence/2025/03/05/122.199.149.129.html) | RAT / C2 | Mar 2025 |
+> Everything published here is independent research conducted in my own time.
+> It does not represent Acumen Cyber and uses no employer or customer data.
 
 ---
 
-### Stats & Achievements
+## Core Skills
 
-🏆 National Finalist — WorldSkills UK Cybersecurity (2023)
-🎯 TryHackMe — Master rank, top 3% globally, 112 rooms
-📌 Former Director of Internal Operations — GCU Ethical Hacking Society
+### Security Operations & Incident Response
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberFrenchie&show_icons=true&theme=dark&rank_icon=github&card_width=475)](https://github.com/CyberFrenchie)
+- End-to-end incident investigation, from initial triage through response and closure
+- SIEM monitoring, alert investigation, event correlation and log analysis
+- EDR investigation, endpoint telemetry analysis and host-level scoping
+- Elastic Security and Kibana investigation workflows
+- IOC enrichment, validation, threat hunting and evidence-led escalation
+- Clear technical reporting, customer communication and remediation guidance
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/R3TR0.png)](https://tryhackme.com/p/R3TR0)
+### Detection & Threat Intelligence
+
+- Detection engineering with Sigma and behaviour-focused analytics
+- OSINT-led investigations and malicious infrastructure mapping
+- Malware, ransomware, RAT and command-and-control analysis
+- Network traffic analysis with Wireshark and supporting protocol tooling
+- Threat intelligence reporting designed for practical defensive use
+
+### Security Research & Engineering
+
+- Vulnerability research, coordinated disclosure and CVE publication
+- Static analysis, mobile application analysis and reverse engineering
+- Fuzzing with AFL++ and structured crash triage
+- Defensive automation and security tooling in Python, Go and Bash
+- Linux administration, network security and secure service deployment
+- Web application testing with Burp Suite
 
 ---
 
-### Tools & Tech
+## Selected Research
 
+My public **[Threat Intelligence Reports](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/)**
+focus on evidence-led analysis and actionable defensive context.
+
+| Report | Focus | Published |
+| --- | --- | --- |
+| [AiLock Ransomware — England Hockey](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/threat-intelligence/2026/03/15/ailock-ransomware-england-hockey.html) | Ransomware and double extortion | March 2026 |
+| [Premium VPN Android — Confirmed Spyware](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/threat-intelligence/2026/02/22/premium-vpn-spyware-android.html) | Android spyware and mobile analysis | February 2026 |
+| [Remcos RAT C2 Infrastructure](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/threat-intelligence/2025/03/05/45.74.46.39.html) | RAT infrastructure and IOC analysis | March 2025 |
+| [GHOST RAT C2 Infrastructure](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/threat-intelligence/2025/03/05/122.199.149.129.html) | RAT infrastructure and IOC analysis | March 2025 |
+
+---
+
+## Tools & Technologies
+
+**Security operations:** Elastic Security, Kibana, SIEM, EDR, Sigma, OSINT,
+incident response, threat hunting, IOC analysis
+
+**Security research:** Wireshark, Burp Suite, AFL++, static analysis, mobile
+application analysis, reverse engineering
+
+**Engineering:** Python, Go, C, Bash, Linux, Git, systemd, REST APIs, SQLite
+
+![Elastic](https://img.shields.io/badge/Elastic_Security-005571?style=flat&logo=elastic&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Alert_Investigation-3155A4?style=flat)
+![EDR](https://img.shields.io/badge/EDR-Endpoint_Analysis-6A3FA0?style=flat)
+![Sigma](https://img.shields.io/badge/Sigma-Detection_Engineering-20232A?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -57,8 +88,21 @@ behalf of my employer, and using no client or employer data.*
 
 ---
 
-### Find Me
+## Highlights
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-dalgleish-334250306)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/R3TR0)
-[![Threat Intel Reports](https://img.shields.io/badge/Threat_Intel-Reports-darkgreen?style=flat)](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/)
+- Published CVE researcher — **CVE-2025-9548**, Lenovo Power Management Driver
+- National Finalist — **WorldSkills UK Cybersecurity 2023**
+- TryHackMe **Master**, top 3% globally, with 112 rooms completed
+- Former Director of Internal Operations — GCU Ethical Hacking Society
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberFrenchie&show_icons=true&theme=dark&rank_icon=github&card_width=475)](https://github.com/CyberFrenchie)
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/R3TR0.png)](https://tryhackme.com/p/R3TR0)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_Dalgleish-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-dalgleish-334250306)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-R3TR0-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/R3TR0)
+[![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-Reports-176B52?style=flat)](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/)
