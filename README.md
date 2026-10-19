@@ -1,6 +1,6 @@
 # Sam Dalgleish — CyberFrenchie
 
-### SOC Engineer | Incident Response | Threat Intelligence | Detection Engineering
+### SOC Engineer | Incident Response | SIEM & EDR | Threat Intelligence
 
 I am a SOC Engineer at **Acumen Cyber**, based in Scotland, with a first-class
 BSc (Hons) in Digital Security and Forensics from Glasgow Caledonian University.
@@ -26,14 +26,14 @@ a null-pointer dereference in Lenovo's Power Management Driver.
 
 - End-to-end incident investigation, from initial triage through response and closure
 - SIEM monitoring, alert investigation, event correlation and log analysis
-- EDR investigation, endpoint telemetry analysis and host-level scoping
-- Elastic Security and Kibana investigation workflows
+- EDR investigation with Microsoft Defender, endpoint telemetry analysis and host-level scoping
+- Elastic Security and Kibana investigation workflows, including alert exceptions and tuning
 - IOC enrichment, validation, threat hunting and evidence-led escalation
 - Clear technical reporting, customer communication and remediation guidance
 
 ### Detection & Threat Intelligence
 
-- Detection engineering with Sigma and behaviour-focused analytics
+- Detection review, alert tuning, exception management and false-positive reduction
 - OSINT-led investigations and malicious infrastructure mapping
 - Malware, ransomware, RAT and command-and-control analysis
 - Network traffic analysis with Wireshark and supporting protocol tooling
@@ -66,8 +66,9 @@ focus on evidence-led analysis and actionable defensive context.
 
 ## Tools & Technologies
 
-**Security operations:** Elastic Security, Kibana, SIEM, EDR, Sigma, OSINT,
-incident response, threat hunting, IOC analysis
+**Security operations:** Elastic Security, Kibana, Microsoft Defender, SIEM,
+EDR, alert tuning, exception management, incident response, threat hunting,
+IOC analysis
 
 **Security research:** Wireshark, Burp Suite, AFL++, static analysis, mobile
 application analysis, reverse engineering
@@ -77,7 +78,7 @@ application analysis, reverse engineering
 ![Elastic](https://img.shields.io/badge/Elastic_Security-005571?style=flat&logo=elastic&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-Alert_Investigation-3155A4?style=flat)
 ![EDR](https://img.shields.io/badge/EDR-Endpoint_Analysis-6A3FA0?style=flat)
-![Sigma](https://img.shields.io/badge/Sigma-Detection_Engineering-20232A?style=flat)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-Endpoint_Investigation-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
