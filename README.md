@@ -93,17 +93,13 @@ application analysis, reverse engineering
 
 - Published CVE researcher — **CVE-2025-9548**, Lenovo Power Management Driver
 - National Finalist — **WorldSkills UK Cybersecurity 2023**
-- TryHackMe **Master**, top 3% globally, with 112 rooms completed
 - Former Director of Internal Operations — GCU Ethical Hacking Society
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberFrenchie&show_icons=true&theme=dark&rank_icon=github&card_width=475)](https://github.com/CyberFrenchie)
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/R3TR0.png)](https://tryhackme.com/p/R3TR0)
 
 ---
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_Dalgleish-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-dalgleish-334250306)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-R3TR0-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/R3TR0)
 [![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-Reports-176B52?style=flat)](https://cyberfrenchie.github.io/THREAT-INTELLIGENCE-REPORTS/)
